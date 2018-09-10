@@ -29,7 +29,8 @@ Good | icon_homepage_help.png |
 Bad | help_icon_homepage.png |
 
 #### Example: 
-(Attach a image)
+![alt text](https://github.com/shah0150/Best-Practices-for-files/blob/master/Picture1.png)
+
 
 # Date and Time
 Occasionally you will want to attach a date to a picture. Again, you will want to go from general to specific here to keep your files organized. If you start with the month, then items from August 2004 will appear before items from January 2013 in your folder.
